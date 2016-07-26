@@ -18,6 +18,6 @@ The following **required** functionality is completed
 ## Video preview of what it does
 Here's a video of what the app make
 
-<img src="https://github.com/jetprog/Week2Project/blob/master/NYTimes.gif" title="Video Preview" alt="Video Preview">
+<img src="https://github.com/jetprog/Week2Project/blob/master/VideoNYTimes.gif" title="Video Preview" alt="Video Preview">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
